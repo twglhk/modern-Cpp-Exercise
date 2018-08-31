@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="for-each2.cpp">
+    <ClCompile Include="returning values.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
