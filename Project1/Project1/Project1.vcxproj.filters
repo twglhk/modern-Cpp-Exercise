@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Operator overloading - 비교 연산자.cpp">
+    <ClCompile Include="Operator overloading - 증감 연산자.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
