@@ -15,7 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Operator overloading - 첨자 연산자.cpp">
+    <ClInclude Include="Organism.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Database.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Deep Copy vs Shallow Copy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

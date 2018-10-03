@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Operator overloading - 첨자 연산자.cpp" />
+    <ClInclude Include="Database.h" />
+    <ClInclude Include="Organism.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Deep Copy vs Shallow Copy.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
