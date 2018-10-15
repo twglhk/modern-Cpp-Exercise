@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Database.h" />
-    <ClInclude Include="Organism.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Deep Copy vs Shallow Copy.cpp" />
+    <ClCompile Include="가상 소멸자.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

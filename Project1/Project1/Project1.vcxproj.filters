@@ -15,15 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Organism.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Database.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Deep Copy vs Shallow Copy.cpp">
+    <ClCompile Include="가상 소멸자.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
