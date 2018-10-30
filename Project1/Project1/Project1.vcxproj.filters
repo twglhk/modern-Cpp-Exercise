@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ObjectSlicing and reference_wrapper.cpp">
+    <ClCompile Include="template partial specialization.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
