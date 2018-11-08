@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="template partial specialization.cpp">
+    <ClCompile Include="Exception Handling.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
