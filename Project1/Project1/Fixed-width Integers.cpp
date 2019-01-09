@@ -15,5 +15,8 @@ int main()
 	std::int_fast8_t fi(5); // 8bit 중에서 가장 빠른 data type.  
 	std::int_least64_t fl(5); // 적어도 64bit, 8byte를 갖는 data type
 
+	cout << fi << endl;
+	cout << fl << endl;
+
 	return 0;
 }
