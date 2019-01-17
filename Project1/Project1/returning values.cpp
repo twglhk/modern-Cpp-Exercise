@@ -57,11 +57,17 @@ int main()
 {
 	int value1 = getValue(3);
 
+	std::cout << value1 << std::endl;
+
 	int pValue1 = *getValue_pointer(3); // 사라질 변수를 dereferencing 하는 경우인데 안전하지 않음.
 									   // warning C4172: returning address of local variable or temporary: value
 	
+	std::cout << pValue1 << std::endl;
+	
+
 	int *pValue2 = getValue_pointer(3); // 이거도 마찬가지로 함수 내부에서 사라지는 local 변수의 메모리 주소를 가져오기 때문에 좋지 않음.
-	cout << pValue1 << endl;
+	cout << pValue2 << endl;
+	cout << pValue2 << endl;
 	
 	//------------------------------------------------------------------------------------------------------------
 

@@ -26,7 +26,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="returning values.cpp">
+    <ClCompile Include="stl and lambda exercise.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
