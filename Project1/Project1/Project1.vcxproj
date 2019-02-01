@@ -23,9 +23,6 @@
     <ClInclude Include="Timer.h" />
     <ClInclude Include="Resource.h" />
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="stl and lambda exercise.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{B644EF0C-B4DA-40D5-AB96-5548E193CDE6}</ProjectGuid>
